@@ -2,7 +2,7 @@
 Project for the MS course
 
 # Team Members
-ILIENESCU Anca
+ILIENESCU Anca <br />
 JEBEREAN Remus
 
 # Description
@@ -12,10 +12,10 @@ The aim of this project is to create a personal assisstant using Raspberry PI
 The most well known personal assisstant is probably Amazon's Alexa. Other similar apps can be found on phones (Siri, Cortana, Google Assisstant etc.)
 
 # Components to be used
-Raspberry PI   - Provides all of the functionality required, will be used to emulate Alexa
-MicroSD Card   - Used for storage
-USB Microphone - Used as an input device for voice commands
-USB Speakers   - Used as an output device for feedback to the given commands
+Raspberry PI   - Provides all of the functionality required, will be used to emulate Alexa <br />
+MicroSD Card   - Used for storage <br />
+USB Microphone - Used as an input device for voice commands <br />
+USB Speakers   - Used as an output device for feedback to the given commands <br />
 LED/Switches   - Used to showcase some of the things we learned during laboratory lessons
 
 # How it works
